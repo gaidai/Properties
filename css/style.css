@@ -1,0 +1,136 @@
+.main-container{
+    margin-top: 2rem;
+    background-color: #F4FBFB;
+    border: 1px solid #E7E7E7;
+    border-radius: 0.3rem;
+}
+#load_spinner> i{
+    position: absolute;
+    z-index: 1100;
+    top:40vh;
+    left: 50vw ;    
+    color: #29CF6B;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.nav_buttons{
+    position: relative;
+    text-align: center;
+    padding: 1rem ;
+    border-bottom: 1px solid #E7E7E7;
+}
+ button:first-child{
+    left:0;
+    color: red;
+}
+.nav_buttons p{
+    text-align: center;
+    margin : auto;
+    font-size: 1.3rem
+}
+ button:last-child{
+    right: 0;
+}
+
+.multimedia{
+    padding: 0.5rem;
+    height: 30rem;
+    position: relative;
+    padding: 1rem;
+    border-bottom: 1px solid #E7E7E7;
+}
+
+img {
+    display: block; /*for the img inside your div */ 
+    margin: 0 auto;
+    max-width: 100%;
+    max-height: 28rem;
+}
+#map {
+    height: 100%;  /* The height is 400 pixels */
+    width: 100%;  /* The width is the width of the web page */
+}
+.tower_label{
+    background-color: white;
+}
+.tower_label>div {
+    margin: 1rem;
+}
+#name{
+    
+    font-size: 1.5rem;
+}
+#address{
+    font-size: 1.2rem;
+}
+.properties_block{
+
+    padding: 1rem;
+    border-bottom: 1px solid #E7E7E7;
+}
+.props_title{
+    letter-spacing: 0.1rem;
+    color: #5B6578;
+    font-size: 1.1rem;
+    padding: 0.5rem;
+    font-weight: 500;
+}
+.property_label{
+    padding: 0.3rem;
+    color: #5B6578;
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+.description_block {
+    background-color: white;
+}
+.description_block div{
+    padding: 1rem 2rem;
+}
+.availabilities.props_title{
+    left: -1.5rem;
+    position: relative;
+    letter-spacing: 0.1rem;
+    padding: 1rem;
+    margin-top: 1rem;
+}
+#records{
+    right: 0;
+    font-size: 0.9rem;
+    letter-spacing: 0rem;
+} 
+thead{
+    background-color: #F4FBFB;
+}
+td, th {
+    padding-left: 2rem !important; 
+}
+th {
+    color: #5B6578;
+    font-size: 1rem;
+    font-weight: 600;
+}
+td {
+    color: #5B6578;
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+.availabilities_table{
+    margin-bottom: 0!important; 
+
+}
+.availabilities_container{
+    padding: 0!important; 
+    border: 1px solid #E7E7E7;
+    border-radius: 0.3rem;
+    margin-bottom: 5rem;
+}
+footer{
+    background-image: url("../images/footer.png");
+    margin:0 5vw;
+    width:90vw;
+    height:20vh;
+    float:right;
+    overflow:auto;
+}

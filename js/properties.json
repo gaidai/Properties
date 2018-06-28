@@ -1,0 +1,119 @@
+{
+  "properties": [
+    {
+      "name": "Burj Khalifa",
+      "address": "1 Mohammed Bin Rashid Boulevard. Downtown Dubai. UAE",
+      "propertyType": "Commercial",
+      "propertyClass": "A",
+      "floors": "140",
+      "totalBuildingArea": "221114",
+      "tenancy": "Long ",
+      "noOfTenant": "55",
+      "website": "www.burjkhalifa.ae",
+      "yearBuilt": "2010",
+      "description": "Not only is Burj Khalifa the world’s tallest building, it has also broken two other impressive records: tallest structure, previously held by the KVLY-TV mast in Blanchard, North Dakota, and tallest  free-standing structure, previously held by Toronto’s CN Tower. The Chicago-based  Council on Tall Buildings and Urban Habitat (CTBUH) has established 3 criteria to  determine what makes a tall building tall. Burj Khalifa wins by far in all three categories. ",
+      "availability": [
+        {
+          "unitNameNumber": "Burj Khalifa, 55/F-, 1-999",
+          "recordType": "Vacant",
+          "availableArea": "25667"
+        },
+        {
+          "unitNameNumber": "Burj Khalifa, 56/F-, 1-999",
+          "recordType": "Vacant",
+          "availableArea": "24667"
+        },
+        {
+          "unitNameNumber": "Burj Khalifa, 58/F-, 1-999",
+          "recordType": "Future Available",
+          "availableArea": "23667"
+        },
+        {
+          "unitNameNumber": "Burj Khalifa, 62/F-, 1-999",
+          "recordType": "Unavailable",
+          "availableArea": "23667"
+        }
+      ]
+    },
+    {
+      "name": "Makkah Clock Royal Tower",
+      "address": "King Abdul Aziz Endowment Abraj Al Bait Complex PO Box 762. МЕККА SAUDI ARABIA",
+      "propertyType": "Commercial",
+      "propertyClass": "A+",
+      "floors": "80",
+      "totalBuildingArea": "150424",
+      "tenancy": "Short ",
+      "noOfTenant": "58",
+      "website": "www.themeccaclocktower.com",
+      "yearBuilt": "2011",
+      "description": "The clocks are topped by a 128-metre (420 ft) spire with a 23-metre-high (75 ft) golden crescent at the top. The spire has an eight-story glass-covered base (The Jewel) which belongs to a scientific center having its own small exhibition, another observation deck at 475 m (1,558 ft) and a prayer floor in 480 m (1,570 ft). The highest floor in The Jewel is the Control Tower Floor, which was planned to be used for controlling air traffic in the sky above Makkah (mainly helicopters for air planes are not allowed near Makkah). ",
+      "availability": [
+        {
+          "unitNameNumber": "Makkah Clock Royal Tower, 45/F-, 1-999",
+          "recordType": "Vacant",
+          "availableArea": "18555"
+        },
+        {
+          "unitNameNumber": "Makkah Clock Royal Tower, 66/F-, 1-999",
+          "recordType": "Vacant",
+          "availableArea": "18550"
+        },
+        {
+          "unitNameNumber": "Makkah Clock Royal Tower, 68/F-, 1-999",
+          "recordType": "Future Available",
+          "availableArea": "18553"
+        },
+        {
+          "unitNameNumber": "Makkah Clock Royal Tower, 69/F-, 1-999",
+          "recordType": "Unavailable",
+          "availableArea": "17865"
+        },
+        {
+          "unitNameNumber": "Makkah Clock Royal Tower, 72/F-, 1-999",
+          "recordType": "Unavailable",
+          "availableArea": "16865"
+        },
+        {
+          "unitNameNumber": "Makkah Clock Royal Tower, 74/F-, 1-999",
+          "recordType": "Unavailable",
+          "availableArea": "16666"
+        }
+      ]
+    },
+    {
+      "name": "Shanghai Tower",
+      "address": "501 Yincheng Middle Rd, LuJiaZui, Lujiazui Residential District, Pudong Xinqu, Shanghai Shi, China",
+      "propertyType": "Office",
+      "propertyClass": "B",
+      "floors": "120",
+      "totalBuildingArea": "100547",
+      "tenancy": "Long/Short ",
+      "noOfTenant": "58",
+      "website": "www.shanghaitower.com",
+      "yearBuilt": "2011",
+      "description": "As the third tower in the trio of signature skyscrapers at the heart of Shanghai’s new Lujiazui Finance and Trade Zone, Shanghai Tower embodies a new prototype for tall buildings. Placed in close proximity to Jin Mao Tower and Shanghai World Financial Center, the new tower rises high above the skyline, its curved façade and spiraling form symbolizing the dynamic emergence of modern China. But its twisting form goes beyond just creating a unique appearance; wind tunnel tests confirm a 24 percent savings in structural wind loading when compared to a rectangular building of the same height.",
+      "availability": [
+        {
+          "unitNameNumber": "Shanghai Tower, 35/F-, 1-999",
+          "recordType": "Unavailable",
+          "availableArea": "15462"
+        },
+        {
+          "unitNameNumber": "Shanghai Tower, 38/F-, 1-999",
+          "recordType": "Vacant",
+          "availableArea": "15462"
+        },
+        {
+          "unitNameNumber": "Shanghai Tower, 45/F-, 1-999",
+          "recordType": "Future Available",
+          "availableArea": "14553"
+        },
+        {
+          "unitNameNumber": "Shanghai Tower, 48/F-, 1-999",
+          "recordType": "Unavailable",
+          "availableArea": "13865"
+        }
+      ]
+    }
+  ]
+}
